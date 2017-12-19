@@ -56,5 +56,11 @@ Anda login ke account github.com, dengan langkah:
 4. Beri nama pada form.
 5. Paste key ke dalam kotak yang disediakan.
 	
-	
+Pelajari Git lebih lanjut:
+
+[https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git](https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git)
+
+---
+
+
 	
